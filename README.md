@@ -23,3 +23,5 @@ https://discuss.codechef.com/questions/18752/what-are-the-must-known-algorithms-
 http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html
 
 http://web.stanford.edu/class/cs97si/
+
+https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures
