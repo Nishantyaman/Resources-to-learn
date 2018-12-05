@@ -1,4 +1,4 @@
-# Resources-to-learn
+# Resources-to-learn Data structures and Algorithm
 
 <bold>Python Problem Solving</bold>
 
